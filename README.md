@@ -1,9 +1,8 @@
 # Samsung Notes Installer
-Script to install the official Samsung Notes application from the Windows Store.  
-Link to the app: https://www.microsoft.com/store/productid/9NBLGGH43VHV  
 
 The official Samsung Notes application has been available on the Microsoft Store for several years, but strangely, the button to install it is not available. However, it is still possible to install it easily using this installation script. Here, you will find all the instructions for installing the Samsung Notes application.  
 **This script installs the official version from the Microsoft Store!**
+Link to the app: https://www.microsoft.com/store/productid/9NBLGGH43VHV  
 
 For those familiar with Windows PowerShell, the necessary command line for installing Samsung Notes is available in the second part.  
 
