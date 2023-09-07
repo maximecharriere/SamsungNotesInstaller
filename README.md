@@ -1,6 +1,11 @@
-# Samsung Notes Installer
+# Samsung Notes Installer for Windows 10 & 11
 
-The official Samsung Notes application has been available on the Microsoft Store for several years, but strangely, the button to install it is not available. However, it is still possible to install it easily using this installation script. Here, you will find all the instructions for installing the Samsung Notes application.  
+> **Update 07/09/2023**  
+> Samsung has made it impossible to launch the application on non-Samsung computers in order to circumvent the solution presented here. Follow this guide on Reddit for new solutions:  
+> https://www.reddit.com/r/GalaxyBook/comments/15v05bv/samsung_notes_does_not_run_on_nongalaxy_book/?utm_source=share&utm_medium=web2x&context=3
+
+The official Samsung Notes application has been available on the Microsoft Store for several years, but since the release of the Samsung Galaxy Laptops, the application is only available on Samsung Laptops. The install button on non-Samsung devices is therefore not visible.  
+However, it is still possible to install it easily using this installation script. Here, you will find all the instructions for installing the Samsung Notes application.  
 **This script installs the official version from the Microsoft Store!**
 Link to the app: https://www.microsoft.com/store/productid/9NBLGGH43VHV  
 
